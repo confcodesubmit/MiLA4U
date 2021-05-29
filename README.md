@@ -1,5 +1,5 @@
 # MiLA4U Approach
-This is the repository of the MiLA4U adaptation approach. Detaile description of the architecture can be found [here](https://github.com/confcodesubmit/MiLA4U/wiki/MiLA4U-Architecture). The implementation details and result replication of MiLA4U framework are presensented below:
+This is the repository of the MiLA4U adaptation approach. Detailed description of the MiLA4U architecture can be found [here](https://github.com/confcodesubmit/MiLA4U/wiki/MiLA4U-Architecture). The implementation details and result replication of MiLA4U framework are presensented below:
 
 
 ## Experiment Setup and System Configurations
