@@ -123,7 +123,7 @@ The scripts for replicating the results can be found inside the folder *Plot_Gen
 
 2. *iot_energy* contains the energy consumed by different approaches for a time period of 18000 seconds
 3. *plots/result_plots* contains the generated plots which have been presented in the paper
-4. Execute *plot_generator.py* to replicate the results of the experiment after completing the above steps
+4. Execute *plot_generator_plotly.py* to replicate the results of the experiment after completing the above steps
 
 
 
